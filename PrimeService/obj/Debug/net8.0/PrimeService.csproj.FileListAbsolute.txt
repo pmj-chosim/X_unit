@@ -1,0 +1,12 @@
+/workspaces/X_unit/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/workspaces/X_unit/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/workspaces/X_unit/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/workspaces/X_unit/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
